@@ -50,6 +50,11 @@ ul {
 .logo {
   max-width: 7.5em;
 }
+@media (min-width: 500px) {
+  .logo {
+    max-width: 10em;
+  }
+}
 @media (min-width: 1140px) {
   .logo {
     max-width: 14em;

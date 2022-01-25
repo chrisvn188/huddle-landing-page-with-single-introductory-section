@@ -52,6 +52,9 @@ ul{
 
 .logo{
   max-width: 7.5em;
+  @media (min-width:500px) {
+    max-width: 10em;
+  }
   @media (min-width:1140px) {
     max-width: 14em;
   }
@@ -114,8 +117,6 @@ ul{
     }
   }
 }
-
-
 
 .btn{
   font-size: .85rem;
