@@ -1,0 +1,23 @@
+{
+  "name": "huddle-landing-page-with-single-introductory-section",
+  "version": "1.0.0",
+  "description": "This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
+  "main": "index.js",
+  "scripts": {
+    "compile-sass": "sass sass/main.scss:css/style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisvn188/huddle-landing-page-with-single-introductory-section.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisvn188/huddle-landing-page-with-single-introductory-section/issues"
+  },
+  "homepage": "https://github.com/chrisvn188/huddle-landing-page-with-single-introductory-section#readme",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  }
+}
